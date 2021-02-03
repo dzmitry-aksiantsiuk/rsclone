@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rsclone/youtube-client/static/css/main.96fc8382.chunk.css",
-    "main.js": "/rsclone/youtube-client/static/js/main.90f18c80.chunk.js",
-    "main.js.map": "/rsclone/youtube-client/static/js/main.90f18c80.chunk.js.map",
-    "runtime~main.js": "/rsclone/youtube-client/static/js/runtime~main.62827582.js",
-    "runtime~main.js.map": "/rsclone/youtube-client/static/js/runtime~main.62827582.js.map",
-    "static/js/2.4ee3676e.chunk.js": "/rsclone/youtube-client/static/js/2.4ee3676e.chunk.js",
-    "static/js/2.4ee3676e.chunk.js.map": "/rsclone/youtube-client/static/js/2.4ee3676e.chunk.js.map",
-    "index.html": "/rsclone/youtube-client/index.html",
-    "precache-manifest.a58a962b8aad15c47315f229ca129245.js": "/rsclone/youtube-client/precache-manifest.a58a962b8aad15c47315f229ca129245.js",
-    "service-worker.js": "/rsclone/youtube-client/service-worker.js",
-    "static/css/main.96fc8382.chunk.css.map": "/rsclone/youtube-client/static/css/main.96fc8382.chunk.css.map",
-    "static/media/loading.be00fc4a.svg": "/rsclone/youtube-client/static/media/loading.be00fc4a.svg",
-    "static/media/App.scss": "/rsclone/youtube-client/static/media/main.43f02461.png"
+    "main.css": "/rsclone/static/css/main.1ba812aa.chunk.css",
+    "main.js": "/rsclone/static/js/main.1f87e6e1.chunk.js",
+    "main.js.map": "/rsclone/static/js/main.1f87e6e1.chunk.js.map",
+    "runtime~main.js": "/rsclone/static/js/runtime~main.5fc3b55c.js",
+    "runtime~main.js.map": "/rsclone/static/js/runtime~main.5fc3b55c.js.map",
+    "static/js/2.4ee3676e.chunk.js": "/rsclone/static/js/2.4ee3676e.chunk.js",
+    "static/js/2.4ee3676e.chunk.js.map": "/rsclone/static/js/2.4ee3676e.chunk.js.map",
+    "index.html": "/rsclone/index.html",
+    "precache-manifest.1381954aa28453bbcff39095738a7f8c.js": "/rsclone/precache-manifest.1381954aa28453bbcff39095738a7f8c.js",
+    "service-worker.js": "/rsclone/service-worker.js",
+    "static/css/main.1ba812aa.chunk.css.map": "/rsclone/static/css/main.1ba812aa.chunk.css.map",
+    "static/media/loading.be00fc4a.svg": "/rsclone/static/media/loading.be00fc4a.svg",
+    "static/media/App.scss": "/rsclone/static/media/main.43f02461.png"
   }
 }
